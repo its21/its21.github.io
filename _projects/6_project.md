@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Philippines
+description: diving page
 img:
 importance: 4
 category: fun
