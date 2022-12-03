@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi, thank you for being here.
+subtitle: SHNU
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Key Lab for Astrophysics</p>
-    <p>Shanghai Normal Univ.</p>
-    <p>100 Guilin Road</p>
-    <p>Shanghai, 200234</p>
+    <p>Maui</p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,7 @@ I have obtained my PhD at the Institute of Astronomy, University of Cambridge UK
 
 I study the structure and evolution of the Milky Way using observations of stars in the Milky Way at infrared and optical wavelengths.
 
-This is a personal page.
+This is a personal page. Thank you for being here.
 
 <!-- I modify here! Hellloooo. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
