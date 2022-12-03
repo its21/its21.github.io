@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Iulia T. Simion
-    - name: Date of Birth
-      value: 7th of March 1987
+    - name: Nationality
+      value: Romanian
     - name: Languages
       value: Romanian, Italian, English, French 
 
@@ -17,9 +17,6 @@
       description:
         - Archaeology of the Milky Way
         - title: Concerning a Bar, a Bulge and a Cloud
-          <!--contents:
-            - stars
-            - bulge, halo-->
     - title: MSc
       institution: University of Paris 11
       year: 2009-2011
@@ -36,22 +33,9 @@
       description:
         - research
         - leading student seminars
-        <!-- - title: researcher
-          contents:
-            - what
-            - what -->
     - title: Postdoctoral Research Fellow
       institution: Shanghai Astronomical Observatory, Chinese Academy of Science
       year: 2016-2021
-      <!--description:
-        - Research-->
-
-<!-- - title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics. -->
 
 - title: Observing Experience
   type: nested_list
