@@ -15,7 +15,8 @@
       institution: University of Cambridge, Cambridge, United Kingdom
       year: 2012-2016
       description:
-        - Archaeology of the Milky Way: Concerning a Bar, a Bulge and a Cloud
+        - Archaeology of the Milky Way
+        - Concerning a Bar, a Bulge and a Cloud
     - title: MSc
       institution: University of Paris 11
       year: 2009-2011
@@ -29,9 +30,6 @@
     - title: Associate Professor
       institution: Shanghai Normal University
       year: 2021 - now
-      description:
-        - research
-        - leading student seminars
     - title: Postdoctoral Research Fellow
       institution: Shanghai Astronomical Observatory, Chinese Academy of Science
       year: 2016-2021
@@ -51,4 +49,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> diving, yoga, studying Chinese
+    - diving, yoga, Chinese, buddhism
