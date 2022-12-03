@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Iulia T. Simion
-    - name: Nationality
-      value: Romanian
+    - name: Affiliation
+      value: Key Lab for Astrophysics, Shanghai Normal University,  Zhihui 智汇 Building, Office 201, 100 Guilin Road, Shanghai 200234
     - name: Languages
       value: Romanian, Italian, English, French 
 
@@ -15,8 +15,7 @@
       institution: University of Cambridge, Cambridge, United Kingdom
       year: 2012-2016
       description:
-        - Archaeology of the Milky Way
-        - title: Concerning a Bar, a Bulge and a Cloud
+        - Archaeology of the Milky Way: Concerning a Bar, a Bulge and a Cloud
     - title: MSc
       institution: University of Paris 11
       year: 2009-2011
