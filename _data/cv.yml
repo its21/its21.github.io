@@ -2,51 +2,50 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Iulia T. Simion
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th of March 1987
     - name: Languages
-      value: English, German
+      value: Romanian, Italian, English, French 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Cambridge, Cambridge, United Kingdom
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Archaeology of the Milky Way
+        - title: Concerning a Bar, a Bulge and a Cloud
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - stars
+            - bulge, halo
+    - title: MSc
+      institution: University of Paris 11
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Master de Physique Fondamentale
+        - Master Astronomie & Astrophysique
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: Shanghai Normal University
+      year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - research
+        - teaching
+        - title: researcher
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - what
+            - what
+    - title: Postdoctoral Research Fellow
+      institution: Shanghai Astronomical Observatory, Chinese Academy of Science
+      year: 2016-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Research
+        - Research
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -68,30 +67,19 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Observing Experience
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 5.1 Hale, Palomar, USA
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 'Investigating the nature of the Hercules Aquila Cloud'
+        - 'PI'
+    - title: Hiltner Telescope, MDM, Kitt Peak, USA
       items:
-        - Description 1.
-        - Description 2.
+        - 'Probing the Milky Way Dark Matter Halo with RR Lyrae'
+        - 'co-PI'
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> diving, yoga, studying Chinese

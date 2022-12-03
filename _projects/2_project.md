@@ -4,7 +4,7 @@ title: Halo
 description: stellar clouds
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Astronomy
 ---
 
 Every project has a beautiful feature showcase page.
