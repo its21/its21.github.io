@@ -5,8 +5,11 @@
       value: Iulia T. Simion
     - name: Affiliation
       value: Key Lab for Astrophysics, Shanghai Normal University,  Zhihui 智汇 Building, Office 201, 100 Guilin Road, Shanghai 200234
+    - name: Contact
+      value: isimion@shnu.edu.cn
     - name: Languages
       value: Romanian, Italian, English, French 
+  
 
 - title: Education
   type: time_table
@@ -15,8 +18,7 @@
       institution: University of Cambridge, Cambridge, United Kingdom
       year: 2012-2016
       description:
-        - Archaeology of the Milky Way
-        - Concerning a Bar, a Bulge and a Cloud
+        - Archaeology of the Milky Way: Concerning a Bar, a Bulge and a Cloud
     - title: MSc
       institution: University of Paris 11
       year: 2009-2011
@@ -49,4 +51,4 @@
 - title: Other Interests
   type: list
   contents:
-    - diving, yoga, Chinese, buddhism
+    - diving, yoga
