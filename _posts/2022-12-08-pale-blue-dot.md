@@ -12,7 +12,7 @@ categories: SHNU reading-club
     </div>
 </div>
 
-On this page we are discussing A pale Blue Dot.
+On this page we are discussing A Pale Blue Dot. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-2 mt-md-0">
@@ -35,6 +35,5 @@ On this page we are discussing A pale Blue Dot.
 </div>
 
 #### First impressions
-
-We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track (I'm not). First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot) - and also about how foolish we were to believe, that we were really something. 
+We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track. First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot) - and also about how foolish we were to believe, that we were really something. 
 
