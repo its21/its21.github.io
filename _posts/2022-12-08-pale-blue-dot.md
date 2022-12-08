@@ -36,5 +36,5 @@ On this page we are discussing A pale Blue Dot.
 
 #### First impressions
 
-We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track (I'm not). First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, pictured by Voyager from the outer Solar system, above) - and also about how foolish we were to believe, for our whole history, that we were really something. 
+We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track (I'm not). First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot) - and also about how foolish we were to believe, that we were really something. 
 
