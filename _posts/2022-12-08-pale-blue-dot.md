@@ -31,5 +31,10 @@ On this page we are discussing A pale Blue Dot.
     </div>
 </div>
 <div class="caption">
-     The Pale Blue Dot, captured by Voyager 1 in 1990. See also <a href="https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited">Pale Blue Dot revisited</a> by NASA in 2020.
+     The Pale Blue Dot. See also <a href="https://www.nasa.gov/feature/jpl/pale-blue-dot-revisited">Pale Blue Dot revisited</a> by NASA in 2020.
 </div>
+
+#### First impressions
+
+We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track (I'm not). First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, pictured by Voyager from the outer Solar system, above) - and also about how foolish we were to believe, like for our whole history, that we were really something. 
+
