@@ -16,7 +16,7 @@ On this page we are discussing A pale Blue Dot.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-2 mt-md-0">
-        {% include figure.html path="assets/img/Voyager1.jpg" title="Voyager 1" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Voyager1.jpg" title="Voyager 1" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
     <div class="col-sm-6 mt-2 mt-md-0">
         {% include figure.html path="assets/img/Voyager_1_February_1990.png" title="Voyager 1 in February 1990" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -27,7 +27,7 @@ On this page we are discussing A pale Blue Dot.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Pale_Blue_Dot_original.png" title="Pale Blue Dot" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Pale_Blue_Dot_original.png" title="Pale Blue Dot" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
 <div class="caption">
