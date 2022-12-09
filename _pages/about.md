@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I have obtained my PhD at the Institute of Astronomy, University of Cambridge UK in January 2016 and I have been a Postdoctoral Fellow at the Shanghai Astronomical Observatory, Chinese Academy of Science from 2016 to 2021. I am Associate Professor at the Shanghai Normal University since August 2021.
 
-I study the structure and evolution of the Milky Way using observations of stars in the Milky Way at infrared and optical wavelengths.
+I study the structure and evolution of the Milky Way using observations of stars at infrared and optical wavelengths.
 
 This is a personal page. Thank you for being here.
 
