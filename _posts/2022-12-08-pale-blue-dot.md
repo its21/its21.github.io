@@ -35,5 +35,26 @@ On this page we are discussing A Pale Blue Dot.
 </div>
 
 #### First impressions
-We are in the middle of reading this book but we wanted to check-in 2 weeks before the deadline to make sure we are all on track. First, this book feels vitage. VINTAGE. In the best way. It talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot) - and also about how foolish we were to believe, that we were really something. 
+We are in the middle of reading this book. First impression for me is that this book feels vitage. VINTAGE. In the best way. But actually it is: it talks about Voyager and the technological challenges of the 90s THE NINETIES and about how insignificant we are in the grand scheme of things (exemplified by the pale dot) - and also about how foolish we were to believe, for most of our history as a species, that we were really special and the universe was designed for us. 
 
+<hr>
+
+Impressions from the students
+
+<hr>
+
+Carl didn't require the readers to have a solid scientific background or be familiar with astronomy history. Though the name of the book called Pale Blue Dot, it is not a book merely describes the earth herself. With the perspective from outer space, Carl and the readers are approaching the planet like aliens. He didn't humans have some privileged position in the universe. A pale blue dot, in other words, could be any aquamarine planet. In the first 4 chapters, Carl debunked geocentrism, and heliocentrism and even challenged the anthropocentric principle. In the following chapter, he emphasized that the existence of intelligent life on earth is an absolute miracle.  In chapters 6 and 7, his vision backed the human's effort to explore the solar system. Designing and building spacecraft like Voyage 1 & 2 in the 1970s seems unlikely to succeed, which requires the endeavor of human beings.
+
+<hr>
+
+This book is suitable for all ages, he tells us about the human exploration of space in easy but powerful language. Firstly, he tells us that the Earth is just the most normal pale blue dot, and it's special simply because we live on it. Neither the Earth nor the sun nor the Milky Way is special. Later, he criticized the "Strong" Anthropic Principle, while endorsing the "Weak" Anthropic Principle. He supports space exploration to understand the physical laws of our universe and argues that we still need to protect the only planet suitable for us to live on.
+
+<hr>
+
+My first impression of this book was that it was a great story. In particular, the development and progress of space technology in the forefront of the United States and the Soviet Union (Russia) deeply touched me. But on a large scale, the Earth is just a boat, and we are all ferrymen.
+
+<hr>
+
+During the process of human develpment, we try to find our position, the Earth's position. We wanted ourselves to be important. But when we found out we are not the centre, people at the time chose to avoid and disbelieve. Peope are peacocky.
+THe ideas of Copernicus and Galileo may now seem naive but that was the only way to find the truth. I think it's very precious that human beings are looking for their place in existence. And we must acknowledge our significance in the universe 
+I accept that I'm small and that there are so few things that I can change. The only thing I'm sure I can change is myself.
