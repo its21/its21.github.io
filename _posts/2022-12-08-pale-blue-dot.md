@@ -6,6 +6,7 @@ description: Carl Sagan
 comments: true
 categories: SHNU reading-club
 ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Pale_Blue_Dot.jpg" title="Pale Blue Dot by Carl Sagan" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -23,7 +24,7 @@ On this page we are discussing A Pale Blue Dot.
     </div>
 </div>
 <div class="caption">
-     Left: Voyager 1. Right: Voyager 1 position in February 1990 when it captured the "Pale Blue Dot" image, as part of the "Family Portrait of the Solar System" series.
+     Voyager 1 and its position on February 1990 when it captured the "Pale Blue Dot" image, as part of the "Family Portrait of the Solar System" series.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +36,7 @@ On this page we are discussing A Pale Blue Dot.
 </div>
 
 #### First impressions
-ITS: We are in the middle of reading this book. First impression is that this book feels vitage but there is a romantic aspect to it which I like. I have read only the first chapters but so far the author talks about Voyager and the technological challenges of the 90s and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, above). There was a reflection about how self-aggrandizing we were for most of our history as a species to believe that the universe is revolving around us. The ideas so far are not new but there is the occasional reflection which has a new spin. I worry a bit about Carl's views on Christianity, hope God won't be a major theme later in the book.
+ITS: We are in the middle of reading this book. First impression is that this book feels vitage but there is a romantic aspect to it which I like. I have read only the first chapters but so far the author talks about Voyager and the technological challenges of the 90s and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, above). There was a reflection about how self-aggrandizing we were for most of our history as a species to believe that the universe is revolving around us. The ideas so far are not new but there is the occasional reflection which has a new spin for me. Religion was already mentioned a few times, I hope Carl's relationship to God won't be a major theme later in the book.
 
 <hr>
 
