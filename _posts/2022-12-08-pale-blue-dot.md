@@ -35,7 +35,7 @@ On this page we are discussing A Pale Blue Dot.
 </div>
 
 #### First impressions
-We are in the middle of reading this book. First impression is that this book feels vitage but there is a romantic aspect to it which I like. I have read only the first chapters but so far the author talks about Voyager and the technological challenges of the 90s and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, above). There was a reflection about how self-aggrandizing we were for most of our history as a species to believe that the universe is revolving around us. The ideas so far are not new but there is the occasional reflection which has a new spin. I worry a bit about Carl's views on Christianity and that God will heavily feature later in the book. 
+ITS: We are in the middle of reading this book. First impression is that this book feels vitage but there is a romantic aspect to it which I like. I have read only the first chapters but so far the author talks about Voyager and the technological challenges of the 90s and about how insignificant we are in the grand scheme of things (exemplified by the pale dot, above). There was a reflection about how self-aggrandizing we were for most of our history as a species to believe that the universe is revolving around us. The ideas so far are not new but there is the occasional reflection which has a new spin. I worry a bit about Carl's views on Christianity, hope God won't be a major theme later in the book.
 
 <hr>
 
