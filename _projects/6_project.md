@@ -4,7 +4,7 @@ title: Philippines
 description: diving page
 img:
 importance: 4
-category: none
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

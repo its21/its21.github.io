@@ -4,7 +4,7 @@ title: Mexico
 description: diving page
 img: assets/img/1.jpg
 importance: 3
-category: none
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
