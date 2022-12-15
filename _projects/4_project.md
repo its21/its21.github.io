@@ -4,7 +4,7 @@ title: Malaysia
 description: diving page
 img:
 importance: 3
-category: fun
+category: none
 ---
 
 Every project has a beautiful feature showcase page.
