@@ -2,7 +2,7 @@
 layout: post
 title: A Pale Blue Dot by Carl Sagan
 date: 2022-12-07 16:53:00
-description: Carl Sagan
+description: book discussion
 comments: true
 categories: SHNU reading-club
 ---

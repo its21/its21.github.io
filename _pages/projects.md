@@ -5,7 +5,7 @@ permalink: /projects/
 description: This is a growing collection of cool things I am interested in.
 nav: true
 nav_order: 1
-display_categories: [Astronomy, fun]
+display_categories: [Astronomy]
 horizontal: false
 ---
 
