@@ -23,7 +23,7 @@ I have obtained my PhD at the Institute of Astronomy, University of Cambridge UK
 
 I study the structure and evolution of the Milky Way using observations of stars at infrared and optical wavelengths.
 
-This is a personal page. Thank you for being here.
+This is a personal page. Thank you for visiting.
 
 <!-- I modify here! Hellloooo. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
 
