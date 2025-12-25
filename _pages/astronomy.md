@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page #this means it must be in a folder called _pages
 title: astronomy
 permalink: /astronomy/
 description: data
