@@ -113,14 +113,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: scuba diving and sea creatures # blog_name will be displayed in your blog page
-blog_nav_title: ocean life # your blog must have a title for it to be displayed in the nav bar
-blog_description: fishies 
+blog_name:  # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_description: 
 permalink: /diving/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: its # put your disqus shortname
@@ -144,7 +144,7 @@ collections:
     output: true
     permalink: /recent/:path/
   astronomy:
-    output: true
+    output: false #need to change to true if u want to publish
     permalink: /astronomy/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -199,7 +199,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
