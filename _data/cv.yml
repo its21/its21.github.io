@@ -1,13 +1,21 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Iulia T. Simion
     - name: Affiliation
       value: Key Lab for Astrophysics, Shanghai Normal University,  Zhihui 智汇 Building, Office 201, 100 Guilin Road, Shanghai 200234
     - name: Contact
       value: isimion@shnu.edu.cn
   
+  
+- title: Work
+  type: time_table
+  contents:
+    - title: Associate Professor
+      institution: Shanghai Normal University, Shanghai, China
+      year: 2021 - now
+    - title: Postdoctoral Research Fellow
+      institution: Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai
+      year: 2016-2021
 
 - title: Education
   type: time_table
@@ -24,20 +32,10 @@
         - Theoretical Physics
         - Astronomy & Astrophysics
 
-- title: Work
-  type: time_table
-  contents:
-    - title: Associate Professor
-      institution: Shanghai Normal University, Shanghai, China
-      year: 2021 - now
-    - title: Postdoctoral Research Fellow
-      institution: Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai
-      year: 2016-2021
-
 - title: Observing 
   type: nested_list
   contents:
-    - title: 5.1 Hale, Palomar, USA
+    - title: 200-inch Hale Telescope, Palomar, USA
       items: 
         - 'Investigating the nature of the Hercules Aquila Cloud'
         - 'PI'
