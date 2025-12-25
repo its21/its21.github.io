@@ -4,7 +4,7 @@ title: astronomy
 permalink: /astronomy/
 description: data
 nav: true #switch to true if u want to see it
-nav_order: 1
+nav_order: 2
 display_categories: [Astronomy]
 horizontal: true
 ---
