@@ -1,16 +1,16 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: This is a growing collection of cool things I am interested in.
+title: astronomy
+permalink: /astronomy/
+description: cool things
 nav: true
 nav_order: 1
 display_categories: [Astronomy]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
+<!-- pages/astronomy.md -->
+<div class="astronomy">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -22,14 +22,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include astronomy_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include astronomy.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -37,20 +37,20 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  {%- assign sorted_projects = site.astronomy | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include astronomy_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include astronomy.html %}
     {%- endfor %}
   </div>
   {%- endif -%}

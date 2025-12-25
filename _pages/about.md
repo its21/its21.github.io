@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: SHNU
+subtitle: about
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Maui</p>
+    <p> Maui </p>
     <p> </p>
     <p> </p>
     <p> </p>
