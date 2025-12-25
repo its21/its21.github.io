@@ -120,7 +120,7 @@ permalink: /diving/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
 disqus_shortname: its # put your disqus shortname
@@ -144,7 +144,7 @@ collections:
     output: true
     permalink: /recent/:path/
   astronomy:
-    output: false #need to change to true if u want to publish
+    output: true #need to change to true if u want to publish
     permalink: /astronomy/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items

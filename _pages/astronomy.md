@@ -2,8 +2,8 @@
 layout: page
 title: astronomy
 permalink: /astronomy/
-description: cool things
-nav: false #switch to true if u want to see it
+description: data
+nav: true #switch to true if u want to see it
 nav_order: 1
 display_categories: [Astronomy]
 horizontal: false
