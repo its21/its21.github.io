@@ -23,6 +23,8 @@ jobs:
         ruby-version: '3.0.2'
         bundler: latest
         bundler-cache: false
+    - name: Install Ruby gems
+      run: bundle install
     - name: Install deps
       run: |
         npm install -g mermaid.cli
