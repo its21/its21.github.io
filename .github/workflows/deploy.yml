@@ -16,11 +16,14 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
+    - name: Update Bundler
+      run: gem install bundler
     - name: Install deps
       run: |
         npm install -g mermaid.cli
