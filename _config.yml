@@ -134,7 +134,7 @@ external_sources:
     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
-# Collections
+# Astronomy
 # -----------------------------------------------------------------------------
 
 collections:
@@ -143,9 +143,9 @@ collections:
       layout: post
     output: true
     permalink: /recent/:path/
-  projects:
+  astronomy:
     output: true
-    permalink: /projects/:path/
+    permalink: /astronomy/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
