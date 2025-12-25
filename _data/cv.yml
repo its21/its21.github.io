@@ -7,8 +7,6 @@
       value: Key Lab for Astrophysics, Shanghai Normal University,  Zhihui 智汇 Building, Office 201, 100 Guilin Road, Shanghai 200234
     - name: Contact
       value: isimion@shnu.edu.cn
-    - name: Languages
-      value: Romanian, Italian, English, French 
   
 
 - title: Education
@@ -20,13 +18,13 @@
       description:
         - Archaeology of the Milky Way, Concerning a Bar, a Bulge and a Cloud
     - title: MSc
-      institution: University of Paris-11, Observatoire de Paris-Meudon, France
+      institution: University of Paris-11 & Observatoire de Paris-Meudon, France
       year: 2009-2011
       description:
         - Theoretical Physics
         - Astronomy & Astrophysics
 
-- title: Experience
+- title: Work
   type: time_table
   contents:
     - title: Associate Professor
@@ -36,7 +34,7 @@
       institution: Shanghai Astronomical Observatory, Chinese Academy of Science, Shanghai
       year: 2016-2021
 
-- title: Observing Experience
+- title: Observing 
   type: nested_list
   contents:
     - title: 5.1 Hale, Palomar, USA
@@ -48,7 +46,4 @@
         - 'Probing the Milky Way Dark Matter Halo with RR Lyrae'
         - 'co-PI'
 
-- title: Other Interests
-  type: list
-  contents:
-    - scuba diving, yoga
+
