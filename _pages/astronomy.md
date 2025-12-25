@@ -7,6 +7,7 @@ nav: true #switch to true if u want to see it
 nav_order: 2
 display_categories: [Astronomy]
 horizontal: true
+published: false
 ---
 
 <!-- pages/astronomy.md -->
