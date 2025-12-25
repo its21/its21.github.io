@@ -6,7 +6,7 @@ description: data
 nav: true #switch to true if u want to see it
 nav_order: 1
 display_categories: [Astronomy]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/astronomy.md -->
