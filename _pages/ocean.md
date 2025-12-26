@@ -13,23 +13,31 @@ published: true
 
 <div class="row">
 
+
   <div class="col-md-4 mt-4">
-    <a href="/ocean/fish/">
-      <img src="/assets/img/ocean/fish.jpg" class="img-fluid rounded">
+    <a href="/ocean/mexico/">
+      <img src="/assets/img/ocean/frogfish.jpg" class="img-fluid rounded">
       <h4 class="mt-2 text-center">Fish</h4>
     </a>
   </div>
 
   <div class="col-md-4 mt-4">
-    <a href="/ocean/pipefish/">
-      <img src="/assets/img/ocean/pipefish.jpg" class="img-fluid rounded">
+    <a href="/ocean/seahorses/">
+      <img src="/assets/img/ocean/sea_dragon_female.JPG" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">Fish</h4>
+    </a>
+  </div>
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/anemone/">
+      <img src="/assets/img/ocean/shrimp.JPG" class="img-fluid rounded">
       <h4 class="mt-2 text-center">Pipefish</h4>
     </a>
   </div>
 
   <div class="col-md-4 mt-4">
-    <a href="/ocean/sharks/">
-      <img src="/assets/img/ocean/sharks.jpg" class="img-fluid rounded">
+    <a href="/ocean/babyfish/">
+      <img src="/assets/img/ocean/mandarin_fish.jpg" class="img-fluid rounded">
       <h4 class="mt-2 text-center">Sharks</h4>
     </a>
   </div>
