@@ -28,13 +28,10 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/cenote_poster.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/cenote_poster.heic" title="my picture with GoPro" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/cenote_poster2.heic" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/cenote_poster2.heic" title="found online" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,11 +39,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/toadfish_wall.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/toadfish_wall.heic" title="the splendid toadfish graffiti" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Sea garden.
+    graffiti
 </div>
  Cozumel and Yutacan Peninsula.
 
