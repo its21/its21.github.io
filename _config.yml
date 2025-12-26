@@ -224,11 +224,11 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/diving/:year/'
-    tag: '/diving/tag/:name/'
-    category: '/diving/category/:name/'
+    year: '/ocean/:year/'
+    tag: '/ocean/tag/:name/'
+    category: '/ocean/category/:name/'
 
-display_tags: ['diving', 'travel'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['diving', 'seahorse', 'nudibranch'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
