@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean
+title: ocean
 permalink: /ocean/
 description: collection of pictures
 nav: true
@@ -46,9 +46,9 @@ published: true
   </div>
 
   <div class="col-md-4 mt-4">
-    <a href="/ocean/landscape/">
+    <a href="/ocean/landscapes/">
       <img src="/assets/img/ocean/11.jpg" class="img-fluid rounded">
-      <h4 class="mt-2 text-center">cenotes, sea floor, caves, structures</h4>
+      <h4 class="mt-2 text-center">underwater landscapes</h4>
     </a>
   </div>
 
