@@ -9,15 +9,29 @@ display_categories: [Country, Nudis, Seahorses]
 horizontal: false
 published: true
 ---
-<div class="grid">
-{% assign items = site.ocean | sort: "importance" %}
-{% for item in items %}
-  <div class="card">
-    <a href="{{ item.url }}">
-      <img src="{{ item.image }}" alt="{{ item.title }}">
-      <h3>{{ item.title }}</h3>
-      <p>{{ item.category }}</p>
+---
+
+<div class="row">
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/fish/">
+      <img src="/assets/img/ocean/fish.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">Fish</h4>
     </a>
   </div>
-{% endfor %}
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/pipefish/">
+      <img src="/assets/img/ocean/pipefish.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">Pipefish</h4>
+    </a>
+  </div>
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/sharks/">
+      <img src="/assets/img/ocean/sharks.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">Sharks</h4>
+    </a>
+  </div>
+
 </div>
