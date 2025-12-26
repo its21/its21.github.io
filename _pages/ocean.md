@@ -1,18 +1,14 @@
 ---
-layout: page #this means it must be in a folder called _pages
-title: Ocean life
+layout: page
+title: Ocean
 permalink: /ocean/
 description: collection of pictures
-nav: true #switch to true if u want to see it
+nav: true
 nav_order: 2
-display_categories: [Country, Nudis, Seahorses, Landscapes]
-horizontal: false
 published: true
----
 ---
 
 <div class="row">
-
 
   <div class="col-md-4 mt-4">
     <a href="/ocean/frogfish/">
@@ -48,7 +44,6 @@ published: true
       <h4 class="mt-2 text-center">large creatures</h4>
     </a>
   </div>
-
 
   <div class="col-md-4 mt-4">
     <a href="/ocean/landscape/">

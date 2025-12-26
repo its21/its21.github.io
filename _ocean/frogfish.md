@@ -1,7 +1,7 @@
 ---
 layout: ocean #this means it must be in a folder called _ocean
-title: frogfish 
-date: 2022-08-04 16:53:00
+title: Frogfish 
+#date: 2022-08-04 16:53:00
 description: underwater
 comments: true
 category: frogfish
