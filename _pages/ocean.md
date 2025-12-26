@@ -12,7 +12,7 @@ published: true
 
   <div class="col-md-4 mt-4">
     <a href="/ocean/frogfish/">
-      <img src="/assets/img/ocean/frogfish.jpg" class="img-fluid rounded">
+      <img src="/assets/img/ocean/toadfish_cozumel.jpg" class="img-fluid rounded">
       <h4 class="mt-2 text-center">frogfish and scorpionfish</h4>
     </a>
   </div>
