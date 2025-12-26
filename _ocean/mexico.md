@@ -1,12 +1,12 @@
 ---
 layout: ocean #this means it must be in a folder called _ocean
-title: Mexico 
+title: frogfish 
 date: 2022-08-04 16:53:00
 description: underwater
 comments: true
-category: Country
+category: frogfish
 importance: 1 
-image: /assets/img/ocean/11.jpg
+image: /assets/img/ocean/frogfish.jpg
 ---
 
 

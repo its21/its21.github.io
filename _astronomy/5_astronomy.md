@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mexico
-description: diving page
+title: idk
+description: wrong
 img: assets/img/1.jpg
 importance: 3
 category: fun
