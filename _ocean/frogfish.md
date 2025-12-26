@@ -1,5 +1,5 @@
 ---
-layout: ocean #this means it must be in a folder called _ocean
+layout: post #this means it must be in a folder called _ocean
 title: Frogfish 
 #date: 2022-08-04 16:53:00
 description: underwater
@@ -7,6 +7,7 @@ comments: true
 category: frogfish
 importance: 1 
 image: /assets/img/ocean/frogfish.jpg
+permalink: /ocean/frogfish/
 ---
 
 
