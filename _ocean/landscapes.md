@@ -1,13 +1,13 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Frogfish & Toadfish & Stonefish & Scorpionfish
+title: Underwater landscapes
 #date: 2022-08-04 16:53:00
 description: underwater
 comments: true
-category: frogfish
+category: landscape
 importance: 1 
 image: /assets/img/ocean/toadfish_cozumel.jpg
-permalink: /ocean/frogfish/
+permalink: /ocean/landscapes/
 ---
 
 
@@ -28,10 +28,10 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/toadfish_cozumel.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/cenote_poster.heic" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/toadfish_internet.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/cenote_poster2.heic" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
