@@ -17,35 +17,6 @@ $max-content-width: {{ site.max_width }};
   border-radius: 12px;
 }
 
-.ocean-header {
-  position: relative;
-}
-
-.ocean-header::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.4);
-  border-radius: 12px;
-}
-
-.ocean-header h1,
-.ocean-header p {
-  position: relative;
-  z-index: 1;
-}
-
-.ocean-header h1 {
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-
-@media (max-width: 768px) {
-  .ocean-header {
-    padding: 3rem 1rem;
-  }
-}
-
 @import
   "variables",
   "themes",
