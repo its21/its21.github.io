@@ -33,6 +33,33 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/anemone3.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/anemone4.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/shrimp_anemone2.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/shrimp_anemone3.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="caption">
     Misool, Raja Ampat. Anemone fish. 
 </div>
