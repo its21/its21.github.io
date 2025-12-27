@@ -8,11 +8,6 @@ nav_order: 2
 published: true
 ---
 
-<div class="ocean-header text-center text-white">
-  <h1>{{ page.title }}</h1>
-  <p class="lead">collection of pictures</p>
-</div>
-
 <div class="row">
 
   <div class="col-md-4 mt-4">
