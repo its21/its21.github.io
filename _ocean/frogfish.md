@@ -1,8 +1,8 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Frogfish & Toadfish & Stonefish & Scorpionfish
+title: Benthic ambush predators 
 #date: 2022-08-04 16:53:00
-description: underwater
+description: wait-and-ambush fishes
 comments: true
 category: frogfish
 importance: 1 

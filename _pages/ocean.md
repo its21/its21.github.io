@@ -13,7 +13,7 @@ published: true
   <div class="col-md-4 mt-4">
     <a href="/ocean/frogfish/">
       <img src="/assets/img/ocean/toadfish_cozumel.jpg" class="img-fluid rounded">
-      <h4 class="mt-2 text-center">frogfish and scorpionfish</h4>
+      <h4 class="mt-2 text-center">bottom dwellers</h4>
     </a>
   </div>
 
@@ -27,14 +27,14 @@ published: true
   <div class="col-md-4 mt-4">
     <a href="/ocean/anemone/">
       <img src="/assets/img/ocean/shrimp.JPG" class="img-fluid rounded">
-      <h4 class="mt-2 text-center">anemone, shrimps and crabs</h4>
+      <h4 class="mt-2 text-center">anemone</h4>
     </a>
   </div>
 
   <div class="col-md-4 mt-4">
     <a href="/ocean/babyfish/">
       <img src="/assets/img/ocean/mandarin_fish.jpg" class="img-fluid rounded">
-      <h4 class="mt-2 text-center">baby fish</h4>
+      <h4 class="mt-2 text-center">babyfish</h4>
     </a>
   </div>
 
