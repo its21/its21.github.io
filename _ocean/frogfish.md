@@ -28,17 +28,17 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/female.jpg" title="scorpionfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/scorpionfish_female.jpg" title="scorpionfish" class="img-fluid rounded z-depth-1" %}
  
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/male.jpg" title="scorpionfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/scorpionfish_male.jpg" title="scorpionfish" class="img-fluid rounded z-depth-1" %}
  
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/devil.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/scorpionfish_devil.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -49,19 +49,11 @@ To give your project a background in the portfolio page, just add the img tag to
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ocean/toadfish_cozumel.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/toadfish_internet.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    Cenotes. Captured with GoPro Hero Black.
+    Cozumel, Mexico. The splendid toadfish hiding under coral. Yellow fins, moustache. 
 </div>
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/ocean/toadfish_cozumel.jpg' | relative_url }}" class="img-fluid rounded">
-  </div>
-</div>
 
 <div class="caption">
    The splendid toadfish.
