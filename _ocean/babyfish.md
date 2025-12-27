@@ -54,7 +54,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <img src="{{ '/assets/img/ocean/mandarin5.jpeg' | relative_url }}" class="img-fluid rounded">
+    <img src="{{ '/assets/img/ocean/mandarin6.jpeg' | relative_url }}" class="img-fluid rounded">
   </div>
 </div>
 
