@@ -4,18 +4,13 @@ title: Syngnathid family
 #date: 2022-08-04 16:53:00
 description: seahorses, seadragons and pipefishes (males brood the eggs in this family)
 comments: true
-category: fish
+category: seahorses, seadragons, pipefishes
 importance: 1 
 image: /assets/img/ocean/seahorse1.jpeg
 permalink: /ocean/seahorse/
 ---
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/seahorse1.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 
 <div class="row">
@@ -47,6 +42,11 @@ permalink: /ocean/seahorse/
 
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/seahorse1.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div class="caption">
      Raja Ampat.Sea horses.

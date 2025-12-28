@@ -2,11 +2,11 @@
 layout: post #this means it must be in a folder called _ocean
 title: Anemone
 #date: 2022-08-04 16:53:00
-description: underwater
+description: Shrimps and Clownshif
 comments: true
-category: fish
+category: fish, shirmps, clownfish, anemone
 importance: 1 
-image: /assets/img/ocean/anemone1.jpeg
+image: /assets/img/ocean/anemone_sexy_shrimp2.jpeg
 permalink: /ocean/anemone/
 ---
 

@@ -6,7 +6,7 @@ description: wait-and-ambush fishes
 comments: true
 category: frogfish
 importance: 1 
-image: /assets/img/ocean/toadfish_cozumel.jpg
+image: /assets/img/ocean/scorpionfish_female.jpg
 permalink: /ocean/frogfish/
 ---
 

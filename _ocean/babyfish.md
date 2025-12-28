@@ -4,7 +4,7 @@ title: Baby fish
 #date: 2022-08-04 16:53:00
 description: underwater
 comments: true
-category: babies
+category: mandarinfish, lionfish
 importance: 1 
 image: /assets/img/ocean/mandarin1.jpeg
 permalink: /ocean/babyfish/
