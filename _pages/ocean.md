@@ -18,7 +18,7 @@ published: true
   </div>
 
   <div class="col-md-4 mt-4">
-    <a href="/ocean/seahorses/">
+    <a href="/ocean/seahorse/">
       <img src="/assets/img/ocean/sea_dragon_female.JPG" class="img-fluid rounded">
       <h4 class="mt-2 text-center">seahorses</h4>
     </a>
