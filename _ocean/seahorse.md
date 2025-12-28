@@ -1,8 +1,8 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Seahorses and pipefish
+title: Syngnathid family
 #date: 2022-08-04 16:53:00
-description: underwater
+description: seahorses, seadragons and pipefishes (males brood the eggs in this family)
 comments: true
 category: fish
 importance: 1 
