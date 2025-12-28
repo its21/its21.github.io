@@ -6,6 +6,34 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+.post-hero {
+  width: 100vw;
+  margin-left: calc(50% - 50vw); /* breaks out of content width */
+  margin-right: calc(50% - 50vw);
+
+  height: 260px; /* adjust to taste */
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+}
+
+.post-hero-inner {
+  max-width: 900px; /* matches your content width */
+  padding: 0 1.5rem;
+  color: white;
+}
+
+.post-title {
+  font-size: 2.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.post-description {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
 
 @import
   "variables",
