@@ -2,7 +2,7 @@
 layout: post #this means it must be in a folder called _ocean
 title: Syngnathid family
 #date: 2022-08-04 16:53:00
-description: seahorses, seadragons and pipefishes (males brood the eggs in this family)
+description: 
 comments: true
 category: #seahorses, seadragons, pipefishes
 importance: 1 
@@ -11,7 +11,9 @@ permalink: /ocean/seahorse/
 ---
 
 
-
+<div class="caption">
+     seahorses, seadragons and pipefishes (males brood the eggs in this family)
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

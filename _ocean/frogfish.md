@@ -2,9 +2,9 @@
 layout: post #this means it must be in a folder called _ocean
 title: Benthic ambush predators 
 #date: 2022-08-04 16:53:00
-description: wait-and-ambush fishes
+description: #wait-and-ambush fishes
 comments: true
-category: frogfish
+category: #frogfish
 importance: 1 
 image: /assets/img/ocean/scorpionfish_female.jpg
 permalink: /ocean/frogfish/
@@ -25,6 +25,11 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/1.jpg
     ---
 -->
+
+<div class="caption">
+   wait-and-ambush fishes
+   frogfish, scorpionfish and toadfish
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
