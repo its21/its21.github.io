@@ -36,6 +36,11 @@ layout: default
           {% endfor -%}
       {% endif %}
 
+
+      {% if page.description %}
+        <p class="post-description">{{ page.description }}</p>
+      {% endif %}
+
     </p>
   </header>
 
