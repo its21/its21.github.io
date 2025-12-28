@@ -20,6 +20,11 @@ $max-content-width: {{ site.max_width }};
   text-align: center;
 }
 
+.post-hero .post-title {
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+}
+
 .post-hero-inner {
   max-width: 900px;
   padding: 0 1.5rem;

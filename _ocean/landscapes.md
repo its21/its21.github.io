@@ -4,7 +4,7 @@ title: Underwater landscapes
 #date: 2022-08-04 16:53:00
 description: underwater
 comments: true
-category: landscape
+category: 
 importance: 1 
 image: /assets/img/ocean/toadfish_cozumel.jpg
 permalink: /ocean/landscapes/

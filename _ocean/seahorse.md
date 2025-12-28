@@ -4,7 +4,7 @@ title: Syngnathid family
 #date: 2022-08-04 16:53:00
 description: seahorses, seadragons and pipefishes (males brood the eggs in this family)
 comments: true
-category: seahorses, seadragons, pipefishes
+category: #seahorses, seadragons, pipefishes
 importance: 1 
 image: /assets/img/ocean/seahorse1.jpeg
 permalink: /ocean/seahorse/
