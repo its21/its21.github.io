@@ -62,6 +62,27 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/clownfish_anemone4.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div> 
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/shrimp_anemone2.jpeg" title="shrimp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div> 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/shrimp_anemone3.jpeg" title="shrimp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div> 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -74,14 +95,14 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/anemone_sexy_shrimp1.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/anemone_sexy_shrimp1.jpeg" title="sexy shrimp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/anemone_sexy_shrimp2.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/anemone_sexy_shrimp2.jpeg" title="sexy shrimp" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
