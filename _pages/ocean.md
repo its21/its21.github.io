@@ -48,7 +48,7 @@ published: true
   <div class="col-md-4 mt-4">
     <a href="/ocean/landscapes/">
       <img src="/assets/img/ocean/11.jpg" class="img-fluid rounded">
-      <h4 class="mt-2 text-center">underwater landscapes</h4>
+      <h4 class="mt-2 text-center">landscapes</h4>
     </a>
   </div>
 

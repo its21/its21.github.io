@@ -45,7 +45,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/scorpionfish_devil.jpg" title="devil scorpionfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/scorpionfish_devil.jpeg" title="devil scorpionfish" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -53,11 +53,31 @@ To give your project a background in the portfolio page, just add the img tag to
    Misool, Raja Ampat. Scorpionfish. My favourite finds.
 </div>
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/scorpionfish_redsea.jpeg" title="devil scorpionfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/scorpionfish_redsea2.jpeg" title="devil scorpionfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+   Red sea. The devil scorpionfish
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ocean/toadfish_cozumel.jpg" title="toadfish" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
 <div class="caption">
     Cozumel, Mexico. The splendid toadfish hiding under coral. Yellow fins, moustache. 
