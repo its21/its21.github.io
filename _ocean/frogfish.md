@@ -84,9 +84,6 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 
-<div class="caption">
-   The splendid toadfish.
-</div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUoy4a1xmhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,7 +5,7 @@ title: landscapes
 description: underwater
 comments: true
 category: 
-importance: 1 
+importance: 1 #comes before ocean
 image: /assets/img/land/boat_raja_ampat.jpeg
 permalink: /land/landscapes/
 ---
@@ -37,6 +37,11 @@ To give your project a background in the portfolio page, just add the img tag to
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/land/boat_raja_ampat.jpeg" title="Misoo;" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+
+<div class="caption">
+   Misool, Raja Ampat, Indonesia.
 </div>
 <!--
 The code is simple.

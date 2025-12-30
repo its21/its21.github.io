@@ -149,6 +149,9 @@ collections:
   ocean:
     output: true
     permalink: /ocean/:name/ #so u need to have pages like frogfish.md in _ocean for each subpanel
+  land:
+    output: true
+    permalink: /land/:name/ #so u need to have pages like frogfish.md in _land for each subpanel
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
