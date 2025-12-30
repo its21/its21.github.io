@@ -28,7 +28,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/scenery_redsea.jpeg" title="Cozumel" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/scenery_redsea.jpeg" title="Cozumel" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
