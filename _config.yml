@@ -227,6 +227,10 @@ jekyll-archives:
     year: '/ocean/:year/'
     tag: '/ocean/tag/:name/'
     category: '/ocean/category/:name/'
+  permalinks:
+    year: '/land/:year/'
+    tag: '/land/tag/:name/'
+    category: '/land/category/:name/'
 
 display_tags: ['diving', 'seahorse', 'nudibranch'] # this tags will be dispalyed on the front page of your blog
 
