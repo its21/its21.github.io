@@ -50,6 +50,21 @@ permalink: /ocean/seahorse/
     </div>
 </div>
 
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/pygmy_rajaampat.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/pygmy_rajaampat_zoom.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="caption">
      Raja Ampat.Sea horses.
 </div>
@@ -78,6 +93,15 @@ permalink: /ocean/seahorse/
      The Red Sea pipefish.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/pipefish_rajaampat_citrus_pregnant.jpeg " title="clownfish" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+     Raja Ampat, Misool, Citrus dive site, pregnant male.
+</div>
 
 
 <!--

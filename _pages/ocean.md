@@ -39,7 +39,7 @@ published: true
   </div>
 
   <div class="col-md-4 mt-4">
-    <a href="/ocean/largefish/">
+    <a href="/ocean/bigfish/">
       <img src="/assets/img/ocean/mantas.jpg" class="img-fluid rounded">
       <h4 class="mt-2 text-center">large creatures</h4>
     </a>
