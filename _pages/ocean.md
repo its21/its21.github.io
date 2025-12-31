@@ -52,4 +52,11 @@ published: true
     </a>
   </div>
 
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/crabs/">
+      <img src="/assets/img/ocean/crab2_raja_ampat.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">crabs</h4>
+    </a>
+
 </div>
