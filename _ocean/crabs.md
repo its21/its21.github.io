@@ -7,7 +7,7 @@ comments: true
 category: # fish, shirmps, clownfish, anemone
 importance: 1 
 image: /assets/img/ocean/crab1_raja_ampat.jpeg
-permalink: /ocean/anemone/
+permalink: /ocean/crabs/ ##NEED TO UPDATE THIS
 ---
 
 
