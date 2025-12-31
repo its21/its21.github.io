@@ -104,6 +104,23 @@ permalink: /ocean/seahorse/
 </div>
 
 
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/seahorse1_japan.jpeg" title="black seahorse" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/seahorse2_japan.jpeg" title="black seahorse" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+     Izu peninsula. Black seahorse at -27m.
+</div>
+
 <!--
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).

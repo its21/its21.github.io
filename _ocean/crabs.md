@@ -1,13 +1,13 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Baby fish
+title: Crabs
 #date: 2022-08-04 16:53:00
-description: underwater
+description: 
 comments: true
-category: #mandarinfish, lionfish
+category: # fish, shirmps, clownfish, anemone
 importance: 1 
-image: /assets/img/ocean/mandarin_good.jpeg
-permalink: /ocean/babyfish/
+image: /assets/img/ocean/crab1_raja_ampat.jpeg
+permalink: /ocean/anemone/
 ---
 
 
@@ -26,26 +26,44 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 -->
 
-
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/babyfish_lionfish_rajaampat.jpeg" title="baby lionfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/crab3_raja_ampat.jpeg" title="crab" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/mandarin_good.jpeg" title="dotted mandarin" class="img-fluid rounded z-depth-1" %}
-    </div>
-      <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/mandarin_face.jpeg" title="dotted mandarin" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/crab2_raja_ampat.jpeg" title="crab" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/crab1_raja_ampat.jpeg" title="crab" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div class="caption">
-    Misool, Raja Ampat. Baby mandarin fish 1-2cm, insanely small and fast moving, hard to capture. 
+    Arborek, Raja Ampat. Crab
+</div>
+
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/crab2_japan.jpeg" title="crab" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ocean/crab1_japan.jpeg" title="crab" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Arborek, Raja Ampat. Crab
 </div>
 
 

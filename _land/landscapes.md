@@ -27,15 +27,42 @@ To give your project a background in the portfolio page, just add the img tag to
 -->
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-16 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.html path="assets/img/land/village_raja_ampat.jpeg" title="Misool" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-16 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/boat_raja_ampat.jpeg" title="Misoo;" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/land/wayag_raja_ampat_1.jpeg" title="Wayag" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/land/wayag_raja_ampat_2.jpeg" title="Wayag" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/land/wayag_raja_ampat_3.jpeg" title="Wayag" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/land/waterfall_batanta.jpeg" title="Batanta" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/land/boat_raja_ampat.jpeg" title="Misool" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
