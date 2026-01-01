@@ -1,6 +1,6 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Syngnathid family
+title: Seahorses, pipefishes and dragons
 #date: 2022-08-04 16:53:00
 description: 
 comments: true
@@ -17,7 +17,7 @@ permalink: /ocean/seahorse/
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ocean/seahorse2.jpeg" title="clownfish" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ocean/seahorse2.jpeg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,6 +43,9 @@ permalink: /ocean/seahorse/
 </div> 
 
 
+<div class="caption">
+     Denise's pygmy seahorse. It blends on with the type of gorgonian sea fan it lives in. Seen around Arborek island, Raja Ampat. They reach a maximum length of 2.4cm.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -66,7 +69,7 @@ permalink: /ocean/seahorse/
 </div>
 
 <div class="caption">
-     Raja Ampat.Sea horses.
+     Bargibant's pygmy sea horse. Arborek, Raja Ampat.
 </div>
 
 
@@ -76,6 +79,9 @@ permalink: /ocean/seahorse/
     </div>
 </div>
 
+<div class="caption">
+     Black-breasted pipefish (Corythoichthys nigripectus). The Red Sea.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -90,7 +96,7 @@ permalink: /ocean/seahorse/
     </div>
 </div>
 <div class="caption">
-     The Red Sea pipefish.
+    Orange-spotted pipefish (Corythoichthys ocellatus). The Red Sea.
 </div>
 
 <div class="row">
@@ -100,7 +106,7 @@ permalink: /ocean/seahorse/
 </div>
 
 <div class="caption">
-     Raja Ampat, Misool, Citrus dive site, pregnant male.
+     Banded pipefish, brooding male. Raja Ampat, Misool, Citrus dive site.
 </div>
 
 
@@ -118,7 +124,7 @@ permalink: /ocean/seahorse/
 </div>
 
 <div class="caption">
-     Izu peninsula. Black seahorse at -27m.
+     The great seahorse (Kelloggi's seahorse) at -27m. Izu Peninsula, Japan.
 </div>
 
 <!--

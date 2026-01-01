@@ -1,6 +1,6 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: Anemone
+title: Anemone and shrimps
 #date: 2022-08-04 16:53:00
 description: Shrimps and Clownshif
 comments: true
