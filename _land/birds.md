@@ -1,12 +1,12 @@
 ---
 layout: post #this means it must be in a folder called _ocean
-title: landscapes
+title: birds
 #date: 2022-08-04 16:53:00
 description: 
 comments: true
 category: 
 importance: 1 #comes before ocean
-image: /assets/img/land/panoramic_penguins.jpg
+image: /assets/img/land/panoramic_penguins.jpeg
 permalink: /land/birds/
 ---
 
@@ -23,19 +23,19 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/1.jpg
-    ---
+    --
 -->
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/baby_penguins.jpg" title="King penguin babies" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/land/baby_penguins.jpeg" title="King penguin babies" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/king_penguin.jpg" title="King penguins" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/land/king_penguin.jpeg" title="King penguins" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
