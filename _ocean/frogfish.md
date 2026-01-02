@@ -27,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
 -->
 
 <div class="caption">
-   bottom dwellers, wait-and-ambush fishes
+   bottom dwellers, wait-and-ambush fishes: 
    scorpionfish and toadfish
 </div>
 
