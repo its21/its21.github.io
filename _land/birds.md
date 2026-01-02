@@ -6,7 +6,7 @@ description:
 comments: true
 category: 
 importance: 1 #comes before ocean
-image: /assets/img/land/panoramic_penguins.jpeg
+image: /assets/img/land/panorama_king_penguins.jpeg
 permalink: /land/birds/
 ---
 
@@ -28,14 +28,14 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/baby_penguins.jpeg" title="King penguin babies" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/land/baby_king_penguins.jpeg" title="King penguin babies" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/land/king_penguin.jpeg" title="King penguins" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/land/king_penguins.jpeg" title="King penguins" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -20,7 +20,7 @@ published: true
 
   <div class="col-md-4 mt-4">
     <a href="/land/birds/">
-      <img src="/assets/img/land/baby_penguins.jpg" class="img-fluid rounded">
+      <img src="/assets/img/land/baby_king_penguins.jpeg" class="img-fluid rounded">
       <h4 class="mt-2 text-center">birds</h4>
     </a>
   </div>
