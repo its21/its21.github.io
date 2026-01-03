@@ -8,6 +8,8 @@ category: # fish, shirmps, clownfish, anemone
 importance: 1 
 image: /assets/img/ocean/anemone_sexy_shrimp2.jpeg
 permalink: /ocean/anemone/
+show_hero: false
+
 ---
 
 
