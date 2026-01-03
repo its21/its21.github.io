@@ -8,6 +8,7 @@ nav_order: 2
 published: true
 ---
 
+<div class="row">
 
   <div class="col-md-4 mt-4">
     <a href="/land/birds/">
@@ -15,10 +16,8 @@ published: true
       <h4 class="mt-2 text-center">birds</h4>
     </a>
   </div>
-</div>
 
 
-<div class="row">
 
   <div class="col-md-4 mt-4">
     <a href="/land/landscapes/">
@@ -26,3 +25,4 @@ published: true
       <h4 class="mt-2 text-center">landscapes</h4>
     </a>
   </div>
+</div>

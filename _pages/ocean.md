@@ -46,7 +46,8 @@ published: true
       <h4 class="mt-2 text-center">crabs</h4>
     </a>
 
-
+</div>
+ 
   <div class="col-md-4 mt-4">
     <a href="/ocean/bigfish/">
       <img src="/assets/img/ocean/mantas.jpg" class="img-fluid rounded">
