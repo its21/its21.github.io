@@ -54,6 +54,22 @@ published: true
       <h4 class="mt-2 text-center">rays and sharks</h4>
     </a>
   </div>
+
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/nudis/">
+      <img src="/assets/img/ocean/nudi_0.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">slugs</h4>
+    </a>
+  </div>
+
+
+  <div class="col-md-4 mt-4">
+    <a href="/ocean/jellyfish/">
+      <img src="/assets/img/ocean/jellyfish_0.jpg" class="img-fluid rounded">
+      <h4 class="mt-2 text-center">jellyfish</h4>
+    </a>
+  </div>
   
   <div class="col-md-4 mt-4">
     <a href="/ocean/landscapes/">
