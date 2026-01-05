@@ -49,7 +49,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Arborek, Raja Ampat. Carpet shark
+    Nudibranchs.
 </div>
 
 
